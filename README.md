@@ -26,3 +26,7 @@ HTML files for the web interface where users can input feature values and get pr
 - [scikit-learn](https://github.com/scikit-learn)
 
 - [numpy](https://github.com/numpy)
+
+## License
+
+Flask is completely free and open-source and licensed under the [BSD-3-Clause](https://flask.palletsprojects.com/en/2.3.x/license/) license.
