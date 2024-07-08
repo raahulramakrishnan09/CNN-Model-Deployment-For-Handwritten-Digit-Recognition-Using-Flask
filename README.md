@@ -5,7 +5,7 @@ This repository demonstrates how to deploy a machine learning model using Flask 
 
 # Files:
 ### my_model.h5:
-Hierarchical Data Formated machine learning model trained on the MNIST dataset.
+Hierarchical Data formatted machine learning model trained on the MNIST dataset.
 
 ### app.py:
 Python script containing Flask web application code for model deployment.
