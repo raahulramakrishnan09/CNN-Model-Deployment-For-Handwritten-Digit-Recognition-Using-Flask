@@ -15,6 +15,8 @@ HTML files for the web interface where users can input feature values and get pr
 # Requirements:
 - [Python](https://github.com/python)
 
+- - [HTML](https://github.com/html)
+
 - [Jupyter](https://github.com/jupyter)
 
 - [Flask](https://github.com/flask)
