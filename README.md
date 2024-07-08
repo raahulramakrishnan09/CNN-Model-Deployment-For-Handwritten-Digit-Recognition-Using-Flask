@@ -11,7 +11,7 @@ Hierarchical Data Formated machine learning model trained on the MNIST dataset.
 Python script containing Flask web application code for model deployment.
 
 ### index.html & result.html:
-HTML file for the web interface where users can input feature values and get predictions.
+HTML files for the web interface where users can input feature values and get predictions.
 # Requirements:
 - [Python](https://github.com/python)
 
