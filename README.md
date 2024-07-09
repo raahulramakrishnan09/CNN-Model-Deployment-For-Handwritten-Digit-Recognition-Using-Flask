@@ -10,8 +10,24 @@ Hierarchical Data formatted machine learning model trained on the MNIST dataset.
 ### app.py:
 Python script containing Flask web application code for model deployment.
 
-### index.html & result.html:
+## Templates:
 HTML files for the web interface where users can input feature values and get predictions.
+### index.html
+```html
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MNIST Digit Classification</title>
+</head>
+<body>
+	<h1>Upload a Digit Image</h1>
+	<form method="post" enctype="multipart/form-data">
+		<input type="file" name="file" accept="image/*">
+		<input type="submit" value="upload">
+	</form>
+</body>
+</html>
+```
 # Requirements:
 - [Python](https://github.com/python)
 
