@@ -28,6 +28,20 @@ HTML files for the web interface where users can input feature values and get pr
 </body>
 </html>
 ```
+### result.html
+```html
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Prediction Result</title>
+	</head>
+<body>
+	<h1>Prediction Result</h1>
+	<p>The predicted digit is: {{ predicted_class }}</p>
+	<a href="/">Go back</a>
+</body>
+</html>
+```
 # Requirements:
 - [Python](https://github.com/python)
 
