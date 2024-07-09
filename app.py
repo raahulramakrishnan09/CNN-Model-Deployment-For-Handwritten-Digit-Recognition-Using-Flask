@@ -26,7 +26,7 @@ def index():
             prediction=model.predict(image)
             predicted_class=np.argmax(prediction)
             return render_template('result.html',predicted_class=predicted_class)
-        return render_template('index.html')
+    return render_template('index.html')
 
 if __name__=='__main__':
     app.run(debug=True,use_reloader=False)
