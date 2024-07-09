@@ -28,5 +28,5 @@ def index():
             return render_template('result.html',predicted_class=predicted_class)
         return render_template('index.html')
 
-if __name__=='main':
+if __name__=='__main__':
     app.run(debug=True,use_reloader=False)
