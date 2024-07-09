@@ -81,7 +81,7 @@ HTML files for the web interface where users can input feature values and get pr
 
 - [HTML](https://github.com/html)
 
-- [Jupyter](https://github.com/jupyter)
+- [Visual Studio Code](https://github.com/visualstudiocode)
 
 - [Flask](https://github.com/flask)
 
